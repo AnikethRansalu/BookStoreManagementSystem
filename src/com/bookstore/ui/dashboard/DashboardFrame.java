@@ -232,4 +232,5 @@ public class DashboardFrame extends JFrame {
 
         lblLowStockCount.setText(String.valueOf(lowStock));
     }
+
 }

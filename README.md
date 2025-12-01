@@ -1,2 +1,4 @@
-# BookStoreManagementSystem
-Java Swing Inventory Management System
+*** Bookstore Inventory Management System ***
+
+
+
