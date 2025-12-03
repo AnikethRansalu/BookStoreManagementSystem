@@ -162,5 +162,4 @@ public class SupplierFrame extends JFrame {
         selectedId = -1;
         table.clearSelection();
     }
-
 }
